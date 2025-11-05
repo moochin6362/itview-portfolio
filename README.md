@@ -98,11 +98,11 @@
 
 ---
 
-<img src="./img/체험단22.png" width="700"/>
+<img src="./img/체험단신청22.png" width="700"/>
 
 <img src="./img/체험단신청0.png" width="700"/>
 
-<img src="./img/체험단신청11.png" width="700"/>
+<img src="./img/체험단11.png" width="700"/>
 
 <img src="./img/체험단신청1.png" width="700"/>
 
