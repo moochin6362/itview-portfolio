@@ -106,7 +106,7 @@
 
 <img src="./img/체험단신청1.png" width="700"/>
 
-<img src="./img/이벤트트신청33.png" width="700"/>
+<img src="./img/이벤트신청33.png" width="700"/>
 
 <img src="./img/체험단신청2.png" width="700"/>
 
